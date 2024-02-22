@@ -36,7 +36,7 @@ Comprehensive documentation on setup, usage, and website interaction.
 
 ## Submission
 
-Submit your project by publishing the code repository on GitHub. The repository must be public. Upon completion, email the link to the repository to narawit@fwx.finance.
+Submit your project by publishing the code repository on GitHub. The repository must be public. Upon completion, email the link to the repository to <narawit@fwx.finance> or <siwapol@fwx.finance>.
 
 The repository must include:
 - The complete source code.
@@ -62,5 +62,4 @@ Any additional documentation or comments within the code to elucidate your appro
 
   (hint3: Reading field "name" in abi.ts can give you useful information)
 
-We are eager to see your creative solutions and how you tackle the complexities of interacting with a multi-token faucet. For questions or further clarification, please contact us at <siwapol@fwx.finance>.
-
+We are eager to see your creative solutions and how you tackle the complexities of interacting with a multi-token faucet. For questions or further clarification, please contact us at <narawit@fwx.finance> or <siwapol@fwx.finance>.
