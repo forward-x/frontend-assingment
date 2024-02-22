@@ -36,7 +36,7 @@ Comprehensive documentation on setup, usage, and website interaction.
 
 ## Submission
 
-Submit your project by publishing the code repository on GitHub. The repository should be accessible to the examiners, either publicly or through shared access. Upon completion, email the link to the repository to narawit@fwx.finance.
+Submit your project by publishing the code repository on GitHub. The repository must be public. Upon completion, email the link to the repository to narawit@fwx.finance.
 
 The repository must include:
 - The complete source code.
