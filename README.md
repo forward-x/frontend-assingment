@@ -17,6 +17,8 @@ Token Selection and Faucet Functionality
 
 The website must allow users to select from multiple tokens available in the faucet and **<ins>request the selected tokens to be sent to their wallets.</ins>**
 
+**Implment on BSC Testnet chain**
+
 **Additional Features**
 
 Chain and Token Addition:
@@ -45,11 +47,19 @@ Any additional documentation or comments within the code to elucidate your appro
 ## Resources Provided
 - Website Design example
   
-  ![example faucet](image.png)
+  ![Example UI](image.png)
 
 - Application Binary Interface (ABI) of the Multi-Token Faucet Smart Contract ( ABI Directory )
 - Address of the Multi-Token Faucet Smart Contract ( addresses.ts )
+  FAUCET_CONTRACT_ADDRESS is address which use for calling faucet function contract
 - Addresses of the Token Contracts ( addresses.ts )
+  REQUIRED_TO_IMPLEMENT_FAUCET_TOKEN_ADDRESSES is addresses that you must implement to request  token to complete key feature 
+  
+  (hint1: You can retrieve token info such as name from address)
+  
+  (hint2: There are other token in contract that you can send request to get token)
 
-We are eager to see your creative solutions and how you tackle the complexities of interacting with a multi-token faucet. For questions or further clarification, please contact us at <narawit@fwx.finance>.
+  (hint3: Reading field "name" in abi.ts can give you useful information)
+
+We are eager to see your creative solutions and how you tackle the complexities of interacting with a multi-token faucet. For questions or further clarification, please contact us at <siwapol@fwx.finance>.
 
