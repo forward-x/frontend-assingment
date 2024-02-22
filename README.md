@@ -15,7 +15,7 @@ The application should offer a straightforward and efficient user interface for 
 
 Token Selection and Faucet Functionality
 
-The website must allow users to select from multiple tokens available in the faucet and <ins>request the selected tokens to be sent to their wallets.</ins>
+The website must allow users to select from multiple tokens available in the faucet and **<ins>request the selected tokens to be sent to their wallets.</ins>**
 
 **Additional Features**
 
@@ -43,13 +43,13 @@ Any additional documentation or comments within the code to elucidate your appro
 
 
 ## Resources Provided
-- Website Design Prototype
-- Application Binary Interface (ABI) of the Multi-Token Faucet Smart Contract
-- Address of the Multi-Token Faucet Smart Contract
-- Addresses of the Token Contracts
+- Website Design example
+  
+  ![example faucet](image.png)
 
+- Application Binary Interface (ABI) of the Multi-Token Faucet Smart Contract ( ABI Directory )
+- Address of the Multi-Token Faucet Smart Contract ( addresses.ts )
+- Addresses of the Token Contracts ( addresses.ts )
 
+We are eager to see your creative solutions and how you tackle the complexities of interacting with a multi-token faucet. For questions or further clarification, please contact us at <narawit@fwx.finance>.
 
-We are eager to see your creative solutions and how you tackle the complexities of interacting with a multi-token faucet. For questions or further clarification, please contact us at [provide contact email or method here].
-
-Wishing you the best of luck!

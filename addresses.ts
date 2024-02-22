@@ -1,0 +1,10 @@
+
+
+
+const FAUCET_CONTRACT_ADDRESS = '0x0'
+
+
+const TOKEN_CONTRACT_ADDRESSES = {
+    TOKEN_1: '0x0',
+    TOKEN_2: '0x0',
+}
